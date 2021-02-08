@@ -14,7 +14,7 @@
 
 **教程的全部内容均以[图一](images/1.png)为基础做示范。你可以可活学活用，不必完全照搬。**
 
-**[图一](images/1.png)里策略组和分流规则的创建方法在此不在赘述，你可以翻阅对应的[官方教程](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md)来学习。**
+**[图一](images/1.png)里策略组和分流规则的创建方法在此不在赘述，你可以翻阅来自[@chiupam 的教程](https://github.com/chiupam/tutorial/blob/master/Loon/Plus/README.md)来学习。**
 
 ![](images/1.png)
 图一
