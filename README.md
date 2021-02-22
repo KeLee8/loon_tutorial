@@ -1,5 +1,6 @@
 # Loon 的 SSID 策略组嵌套教程
 
+## 配置文件模板
 这是本次教程做好的使用三种不同策略SSI嵌套配置文件，提供给有需要的同学参考。
 
 > [loon_ssid_url-test.conf](https://raw.githubusercontent.com/ArriettyQAQ/loon_tutorial/main/conf/loon_ssid_url-test.conf) 该配置使用 `url-test` 策略，`测试间隔` 为 `60秒` ，容差为 `0毫秒` 。该策略为延时优选策略，自动选择延时最低的节点，不能手动选择节点使用。
@@ -8,6 +9,8 @@
 
 > [loon_ssid_load-balance-pcc.conf](https://raw.githubusercontent.com/ArriettyQAQ/loon_tutorial/main/conf/loon_ssid_load-balance-pcc.conf) 该配置使用 `load-balance` 下的 `pcc` 策略，`测试间隔` 为 `60秒` ，最大超时为 `3000毫秒` ，该策略为负载均衡策略，会让相同主机名的请求锁定同一节点，不能手动选择节点使用。
 
+
+## 教程开始
 **⚠本教程部分图片尺寸过大，建议以新标签页的方式打开图片下方的图片链接以查看大图。**
 
 **在开始这个教程之前，我们先抛出一个问题。**
