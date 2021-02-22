@@ -2,11 +2,11 @@
 
 这是本次教程做好的使用三种不同策略SSI嵌套配置文件，提供给有需要的同学参考。
 
-> [Loon的延时优选SSID嵌套场景配置.conf](https://raw.githubusercontent.com/ArriettyQAQ/loon_tutorial/main/conf/Loon%E7%9A%84%E5%BB%B6%E6%97%B6%E4%BC%98%E9%80%89SSID%E5%B5%8C%E5%A5%97%E5%9C%BA%E6%99%AF%E9%85%8D%E7%BD%AE.conf) 该配置使用 `url-test` 策略
+> [loon_ssid_url-test.conf](https://raw.githubusercontent.com/ArriettyQAQ/loon_tutorial/main/conf/loon_ssid_url-test.conf) 该配置使用 `url-test` 策略
 
-> [Loon的故障转移SSID嵌套场景配置.conf](https://raw.githubusercontent.com/ArriettyQAQ/loon_tutorial/main/conf/Loon%E7%9A%84%E6%95%85%E9%9A%9C%E8%BD%AC%E7%A7%BBSSID%E5%B5%8C%E5%A5%97%E5%9C%BA%E6%99%AF%E9%85%8D%E7%BD%AE.conf) 该配置使用 `fallback` 策略
+> [loon_ssid_fallback.conf](https://raw.githubusercontent.com/ArriettyQAQ/loon_tutorial/main/conf/loon_ssid_fallback.conf) 该配置使用 `fallback` 策略
 
-> [Loon的负载均衡SSID嵌套场景配置.conf](https://raw.githubusercontent.com/ArriettyQAQ/loon_tutorial/main/conf/Loon%E7%9A%84%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1SSID%E5%B5%8C%E5%A5%97%E5%9C%BA%E6%99%AF%E9%85%8D%E7%BD%AE.conf) 该配置使用 `load-balance` 下的 `pcc` 策略
+> [loon_ssid_load-balance-pcc.conf](https://raw.githubusercontent.com/ArriettyQAQ/loon_tutorial/main/conf/loon_ssid_load-balance-pcc.conf) 该配置使用 `load-balance` 下的 `pcc` 策略
 
 **⚠本教程部分图片尺寸过大，建议以新标签页的方式打开图片下方的图片链接以查看大图。**
 
